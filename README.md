@@ -1,2 +1,2 @@
 # profile-react
-React based personal portfolio - intial learning curve repo
+React based personal portfolio - initial learning curve repo
