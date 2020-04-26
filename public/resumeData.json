@@ -1,0 +1,190 @@
+{
+  "main": {
+    "name": "Gaurav Rao K",
+    "occupation": "Software Engineer",
+    "description": "Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Reactjs, Angular,AEM, CSS3, HTML 5 and javascript.",
+    "image": "profilepic.jpg",
+    "bio": "Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Reactjs, Angular, AEM, CSS3, HTML 5 and Javascript. Strong engineering professional with a Bachelor’s Degree focused in Computer Science and Engineering from Srinivas School of Engineering, Mangalore.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "gauravrao2@gmail.com",
+    "phone": "+91 - 9591285951",
+    "address": {
+      "street": "Electronic City",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560100"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gauravraok",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/k_gaurav_rao",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gaurav-rao-384306a3/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/GauravRao",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Srinivas School of Engineering",
+        "degree": "Bachelors of Engineering in Computer Science",
+        "graduated": "June 2016"
+      },
+      {
+        "school": "Govinda Dasa PU College",
+        "degree": "Pre University in Computer Science",
+        "graduated": "March 2012"
+      }
+    ],
+    "work": [
+      {
+        "company": "Duthchview Technologies Pvt Ltd",
+        "title": "Senior Software Developer",
+        "years": "November 2018 - Present",
+        "description": "Working in this company has given me solid knowledge about Theming the website with full responsiveness and experimenting with various technology."
+      },
+      {
+        "company": "Specbee Consulting Service Pvt Ltd",
+        "title": "Software Developer",
+        "years": "September 2018 - October 2018",
+        "description": "Working in this company has given me solid knowledge about Theming the website with full responsiveness and Oppurtunity to learn new Technology like Adobe Experience Manager (AEM). Also handled projects single handedly and delivered on time. Have taken up training for freshers on Javascript technology."
+      },
+      {
+        "company": "Mobinius Technologies Pvt Ltd",
+        "title": "Software Developer",
+        "years": "June 2016 - August 2018",
+        "description": "Started my career of IT with this company where I have learnt most of the technology which I'm currently familiar with. Here I have been given role of an Angular Developer and had taken few projects on my own and completed it at the best."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "REDUX",
+        "level": "60%"
+      },
+      {
+        "name": "Jquery",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Adobe Experience Manager 6 Developer",
+        "company": "Adobe",
+        "years": "October 2018"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Scania India",
+        "category": "A major Swedish manufacturer of commercial vehicles – specifically heavy trucks and buses.",
+        "image": "scania.png",
+        "url": "https://www.scania.com/in/en/home.html"
+      },
+      {
+        "title": "Edunews",
+        "category": "Edunews connects you to the world class institutions",
+        "image": "edu.png",
+        "url": "https://stage.edunews.com/home"
+      },
+      {
+        "title": "Barbeque Nation",
+        "category": "Indian restaurant chain headquartered in Bengaluru",
+        "image": "barb.png",
+        "url": "https://drupal-stage.bnhl.in"
+      },
+      {
+        "title": "Govt School Gujjadi",
+        "category": "Govt School Gujjadi Century celebration website",
+        "image": "school.png",
+        "url": "http://govthpschoolgujjadi.com/"
+      },
+      {
+        "title": "Great Southern Homes",
+        "category": "Largest Home builders in central South Carolina offer greener smarter new homes for sale in Columbia and surrounding regions",
+        "image": "gsh.png",
+        "url": "https://www.greatsouthernhomes.com/"
+      },
+      {
+        "title": "Fort Lewis College",
+        "category": "Fort Lewis College is the Southwest’s crossroads of education and adventure",
+        "image": "flc.png",
+        "url": "https://flc.specbee.in"
+      },
+      {
+        "title": "Dr. Reddy's Timesheet",
+        "category": "Indian multinational pharmaceutical company based in Hyderabad, Telangana, India",
+        "image": "drl.png"
+      },
+      {
+        "title": "MitoConnect",
+        "category": "An IOT based building controlling system.",
+        "image": "mito.png"
+      },
+      {
+        "title": "Lakshmi Catering Services",
+        "category": "An group of professionals in the institution of food service business",
+        "image": "lcs.png",
+        "url": "http://lakshmicateringservices.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
